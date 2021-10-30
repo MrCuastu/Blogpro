@@ -1,5 +1,3 @@
-este es un archivo caremonda, tebgo 23 años y naci en Colombia
+este es un archivo caremonda
 
-Ya hice mi primera pagina web
-
-Maestria en ingenieria 
+remplazo de version de txt de 1 a nueva version 
